@@ -1,17 +1,12 @@
 # React_CoinGecko_API_Prices
+La siguiente aplicación nos muestra los precios de diferentes tókenes mediante la API de coingecko.
+
+
+## Instalación
+    Instalar NodeJS
+    Craer una aplicación React con __npx__: npm create-react-app name_app
+    Instalamos Boostrap: npm i bootstrap
+    Instalamos AXIOS: npm i axios
 
 
 
-…or create a new repository on the command line
-echo "# React_CoinGecko_API_Prices" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/younesKK/React_CoinGecko_API_Prices.git
-git push -u origin main
-
-…or push an existing repository from the command line
-git remote add origin https://github.com/younesKK/React_CoinGecko_API_Prices.git
-git branch -M main
-git push -u origin main
